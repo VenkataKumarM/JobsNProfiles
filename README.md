@@ -1,2 +1,2 @@
 # JobsNProfiles
-Automation
+Automation of one complete web site
