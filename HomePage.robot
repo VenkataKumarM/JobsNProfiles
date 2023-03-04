@@ -616,3 +616,5 @@ ApplyJob
     END
 DemoTask
     log to console    hello i am checking with git
+DemoTask1
+    log to console    hello demo task 2
