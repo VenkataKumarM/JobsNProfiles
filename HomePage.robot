@@ -614,7 +614,3 @@ ApplyJob
         Click Element   xpath:/html/body/div[1]/div/nav/div/div/ul/li[1]/a      # DAsh Board
         sleep   5
     END
-DemoTask
-    log to console    hello i am checking with git
-DemoTask1
-    log to console    hello demo task 2
